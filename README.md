@@ -13,7 +13,7 @@
 ⚡️ I believe in writing maintainable code, following best practices, and constantly evolving by staying up-to-date with the latest tech trends. From front-end to back-end, I enjoy the whole development process and am always striving to improve the user experience and my skills. <br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fernanda_sivila) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandasivila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivila.fernandab@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-sivila/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivila.fernandab@gmail.com) 
 
 # 💻 Tech Stack:
 

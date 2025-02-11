@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Fernanda Sivila</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=500&color=259073&width=435&lines=It's+not+just+coding...;++;it's+designing+gigital+experiences;Working+in+backend+and+frontend+;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=500&color=259073&width=435&lines=It's+not+just+coding...;++;it's+designing+digital+experiences;Working+in+backend+and+frontend+;" alt="Typing SVG" /></a>
 </p>
 
 # 💫 About Me:
@@ -76,20 +76,19 @@
     
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fernandasivila&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernandasivila&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasivila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fernandasivila&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fernandasivila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fernandasivila&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fernandasivila&icon=4&color=3)](https://visitcount.itsvg.in)

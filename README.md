@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-<img align="right" width=100px src="https://i.pinimg.com/736x/10/9b/be/109bbe2dfc2350a0fc32789716f2074a.jpg" >
+<img align="right" width=300px src="https://i.pinimg.com/736x/10/9b/be/109bbe2dfc2350a0fc32789716f2074a.jpg" >
 🎓 Analyst Programmer <br>🎓 Computing Technician <br>💻 Full Stack Developer Web <br>📍 Jujuy, Argentina<br> 
 
 📚 I’ve completed my Analyst Programmer degree and I’m now pursuing my second degree in Systems Engineering.<br>

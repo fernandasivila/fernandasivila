@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=500&color=259073&width=435&lines=It's+not+just+coding...;++;it's+designing+digital+experiences;Working+in+backend+and+frontend+;" alt="Typing SVG" /></a>
 </p>
 
-# 💫 About Me:
+<img width=20px src="https://i.pinimg.com/originals/88/00/b9/8800b95c0e6fd715de02a8f5ddfb046b.gif"># 💫 About Me:
 <img align="right" width=300px src="https://i.pinimg.com/736x/10/9b/be/109bbe2dfc2350a0fc32789716f2074a.jpg" >
 🎓 Analyst Programmer <br>🎓 Computing Technician <br>💻 Full Stack Developer Web <br>📍 Jujuy, Argentina<br> 
 <br> <br>

@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi , I'm Fernanda Sivila</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=259073&width=435&lines=It's+not+just+coding...;++;it's+designing+gigital+experiences;Working+in+backend+and+frontend+;Love+to+learn+new+sttufs...%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=500&color=259073&width=435&lines=It's+not+just+coding...;++;it's+designing+gigital+experiences;Working+in+backend+and+frontend+;" alt="Typing SVG" /></a>
 </p>
 
 # 💫 About Me:
 🎓 Analyst Programmer <br>🎓 Computing Technician <br>💻 Full Stack Developer Web <br>📍 Jujuy, Argentina<br> 
 
-📚 I’ve completed my Analyst Programmer degree and I’m now pursuing my second degree in Systems Engineering.
-👩‍💻 I’m a Full Stack Web Developer with expertise in React, TypeScript, and JavaScript, and I’m passionate about building apps that are both user-friendly and high-performing.
-⚡️ I believe in writing maintainable code, following best practices, and constantly evolving by staying up-to-date with the latest tech trends. From front-end to back-end, I enjoy the whole development process and am always striving to improve the user experience and my skills.
+📚 I’ve completed my Analyst Programmer degree and I’m now pursuing my second degree in Systems Engineering.<br>
+👩‍💻 I’m a Full Stack Web Developer with expertise in React, TypeScript, and JavaScript, and I’m passionate about building apps that are both user-friendly and high-performing.<br>
+⚡️ I believe in writing maintainable code, following best practices, and constantly evolving by staying up-to-date with the latest tech trends. From front-end to back-end, I enjoy the whole development process and am always striving to improve the user experience and my skills. <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fernanda_sivila) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandasivila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivila.fernandab@gmail.com) 

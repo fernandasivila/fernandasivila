@@ -7,8 +7,9 @@
 <img align="right" width=300px src="https://i.pinimg.com/736x/10/9b/be/109bbe2dfc2350a0fc32789716f2074a.jpg" >
 🎓 Analyst Programmer <br>🎓 Computing Technician <br>💻 Full Stack Developer Web <br>📍 Jujuy, Argentina<br> 
 <br> <br>
-📚 I’ve completed my Analyst Programmer degree and I’m now pursuing my second degree in Systems Engineering.<br>
+
 👩‍💻 I’m a Full Stack Web Developer with expertise in React, TypeScript, and JavaScript, and I’m passionate about building apps that are both user-friendly and high-performing.<br>
+👩‍🎓 I’ve completed my Analyst Programmer degree and I’m now pursuing my second degree in Systems Engineering.<br>
 ⚡️ I believe in writing maintainable code, following best practices, and constantly evolving by staying up-to-date with the latest tech trends. From front-end to back-end, I enjoy the whole development process and am always striving to improve the user experience and my skills. <br>
 
 ## 🌐 Socials:
